@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "LwZiKLAUmeBM2kAXhHJerj1xlc8bCw5WmrRvMoAhnkDuKO+Oj0yy1KuxF9ytdz9rIFNVwq4ILWtKg+2e4ON4QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ProfesorMCSD\\Documents\\Visual Studio 2019\\Projects\\MvcCoreSenderSQS\\MvcCoreSenderSQS\\MvcCoreSenderSQS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\awssdk.core\\3.7.0.13\\awssdk.core.3.7.0.13.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.0.1\\awssdk.extensions.netcore.setup.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\awssdk.sqs\\3.7.0.13\\awssdk.sqs.3.7.0.13.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
